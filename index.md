@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Full Stack Portfolio
 ---
 ## Machine learning
 
